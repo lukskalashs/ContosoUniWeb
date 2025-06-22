@@ -13,12 +13,19 @@ This "Contoso University" web application is a project I am actively developing,
 Here are some visual glimpses of the application's current state:
 
 * **Welcome Page:**
-    ![Contoso University Welcome Page](https://i.imgur.com/your-welcome-page-screenshot-link.png) * **Students List:**
-    ![Contoso Students List](https://i.imgur.com/your-students-screenshot-link.png) * **User Account Management:**
-    ![User Accounts Management](https://i.imgur.com/your-users-screenshot-link.png) * **Role Management:**
-    ![Roles Management](https://i.imgur.com/your-roles-screenshot-link.png) * **Admin Dropdown Menu:**
-    ![Admin Dropdown](https://i.imgur.com/your-admin-dropdown-screenshot-link.png) * **Student Body Statistics (Placeholder):**
-    ![Student Body Statistics Page](https://i.imgur.com/your-stats-screenshot-link.png) ## Features Implemented
+    ![Contoso University Welcome Page](Images/Screenshot 2025-06-22 114736.png)
+* **Students List:**
+    ![Contoso Students List](Images/Screenshot 2025-06-22 114805.png)
+* **User Account Management:**
+    ![User Accounts Management](Images/Screenshot 2025-06-22 114856.png)
+* **Role Management:**
+    ![Roles Management](Images/Screenshot 2025-06-22 114941.png)
+* **Admin Dropdown Menu:**
+    ![Admin Dropdown](Images/Screenshot 2025-06-22 115010.png)
+* **Student Body Statistics (Placeholder):**
+    ![Student Body Statistics Page](Images/Screenshot 2025-06-22 115035.png)
+
+## Features Implemented
 
 * **Comprehensive Student Management:**
     * Full **CRUD (Create, Read, Update, Delete)** operations for student records.
