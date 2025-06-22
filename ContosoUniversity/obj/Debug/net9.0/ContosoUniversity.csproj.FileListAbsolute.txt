@@ -1,0 +1,833 @@
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\appsettings.Development.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\appsettings.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\libman.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.staticwebassets.runtime.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.exe
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.deps.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.runtimeconfig.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.pdb
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Azure.Core.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Azure.Identity.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Humanizer.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.ClientModel.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.CodeDom.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Memory.Data.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Text.Json.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfo.cs
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\t2lz91yfx8-bqjiyaj88i.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\t0mtqlnpxp-c2jlpeoesf.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\63wkw43i3t-erw9l3u2r3.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\sjs6gbvylj-aexeepp0ev.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\a5guscmekr-d7shbmvgxk.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\d9dexrmd7t-ausgxo2sd3.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\26xm0bpr2n-k8d9w2qqmf.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\nt8rfljglf-cosvhxvwiu.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\63ga5d44tn-ub07r2b239.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\pvkiqaeq83-fvhpjtyr6v.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\tq1gquew3a-b7pk76d08c.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\xyg4k1qkmv-fsbi9cje9m.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\w1lkd35wvf-rzd6atqjts.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\kslpi5gold-ee0r1s7dh0.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\uw290i8bjb-dxx9fxp4il.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\wfbudqph8b-jd9uben2k1.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\wcv465dbu5-khv3u5hwcm.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\o9rq26rjrs-r4e9w2rdcm.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5mddjwswek-lcd1t2u6c8.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\jh00wj6rfd-c2oey78nd0.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\72ypb6wis8-tdbxkamptv.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\50ly71tumt-j5mq2jizvt.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\d0rvqdslqt-06098lyss8.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7kit1f99k4-nvvlpmu67g.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\drtl09y606-s35ty4nyc5.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\w89dzxfsmr-pj5nd1wqec.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mobhruz5oo-46ein0sx1k.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cqm6hb54wg-v0zj4ognzu.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\sbaqtew0oo-37tfw0ft22.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\4dspnal0md-hrwsygsryq.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cnyxq1ofi5-pk9g2wxc8p.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\tkx965eflj-ft3s53vfgj.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\70vgz2ydcn-6cfz1n2cew.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\vx3ufa2jh6-6pdc2jztkx.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7h30bkhkt4-493y06b0oq.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\8yeus6of2p-iovd86k7lj.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\bgxrempnka-vr1egmr9el.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\kmq2w0z1fw-kbrnm935zg.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5ox2t7juyr-jj8uyg4cgr.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\o556ripmsa-y7v9cxd14o.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\zcx6thl8ok-notf2xhcfb.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\xp5pz8kddg-h1s4sie4z3.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\9ia32q09xa-63fj8s7r0e.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\00olkzmu8h-0j3bgjxly4.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\3l11lpv9n1-3mu0h9tx89.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2ez4sppu6w-cmhhdwqdyz.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\u4tfgl4z6f-5zybp921qk.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\0miy6ldu8a-eict21by8z.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\lc0tikhacc-rvhlnuwl0w.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\3dc8j28vqx-8tr2uchqr5.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\e3a9iu2j9n-oyhlwpn2ry.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5e8o2wwyyk-37l46l7i6j.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\biufu6sfzs-9ozp8y9mwk.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\hzyab6vmsu-33kherj0x8.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\ii63ocywdb-xw9ktltpoq.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\9g7jugkeye-vv23opoj39.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\rzh4w69mcj-utrc60xe8f.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\vubn4a5uzy-m5ioe6x05t.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2h7jeb6bcc-ogfnvmm9u4.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\n2vuz34fqe-msy1qwdlar.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\y2ptnfe73e-wygj0g0egz.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\qx0z38aga8-qnll27bpxk.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\bza5ti56ua-vppv4xf58g.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\onx0vncoan-wbpfeoezp3.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mlceix5osg-ytu0mno2ng.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\otvgcya4my-wuwc8kk5a5.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7hzpi6re86-a2ww84rxre.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\ofuau6rhhn-parinopxbm.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mwx3qlv7b2-r2l44wjr8p.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\nqyflnmt2s-9b4bpgjbx0.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\x2732cl7gu-m56mxgorfm.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cs392ipb5a-iclhr71gek.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\1y6w333i4e-5q5v2m71js.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2cgjo6jowg-n9b8won2d5.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\r9fper3qce-e9652imd4e.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\psjxo6ikei-1il7se3zg6.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\k293baqkp0-4abcade5u8.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2gj5it3a8t-huwngg65ec.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\z0jxqfafbf-22n2g2hpag.gz
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.build.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.development.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.pack.json
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoU.2F40B0B5.Up2Date
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\refint\ContosoUniversity.dll
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.pdb
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.genruntimeconfig.cache
+C:\OneDrive - University of the Free State\01. CS Work\CSIS3734\2025\Classes\20250424\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ref\ContosoUniversity.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\appsettings.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\libman.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.staticwebassets.runtime.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.exe
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.deps.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.runtimeconfig.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.pdb
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.sourcelink.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\t2lz91yfx8-bqjiyaj88i.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\t0mtqlnpxp-c2jlpeoesf.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\63wkw43i3t-erw9l3u2r3.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\sjs6gbvylj-aexeepp0ev.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\a5guscmekr-d7shbmvgxk.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\d9dexrmd7t-ausgxo2sd3.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\26xm0bpr2n-k8d9w2qqmf.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\nt8rfljglf-cosvhxvwiu.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\63ga5d44tn-ub07r2b239.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\pvkiqaeq83-fvhpjtyr6v.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\tq1gquew3a-b7pk76d08c.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\xyg4k1qkmv-fsbi9cje9m.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\w1lkd35wvf-rzd6atqjts.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\kslpi5gold-ee0r1s7dh0.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\uw290i8bjb-dxx9fxp4il.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\wfbudqph8b-jd9uben2k1.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\wcv465dbu5-khv3u5hwcm.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\o9rq26rjrs-r4e9w2rdcm.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5mddjwswek-lcd1t2u6c8.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\jh00wj6rfd-c2oey78nd0.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\72ypb6wis8-tdbxkamptv.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\50ly71tumt-j5mq2jizvt.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\d0rvqdslqt-06098lyss8.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7kit1f99k4-nvvlpmu67g.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\drtl09y606-s35ty4nyc5.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\w89dzxfsmr-pj5nd1wqec.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mobhruz5oo-46ein0sx1k.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cqm6hb54wg-v0zj4ognzu.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\sbaqtew0oo-37tfw0ft22.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\4dspnal0md-hrwsygsryq.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cnyxq1ofi5-pk9g2wxc8p.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\tkx965eflj-ft3s53vfgj.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\70vgz2ydcn-6cfz1n2cew.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\vx3ufa2jh6-6pdc2jztkx.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7h30bkhkt4-493y06b0oq.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\8yeus6of2p-iovd86k7lj.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\bgxrempnka-vr1egmr9el.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\kmq2w0z1fw-kbrnm935zg.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5ox2t7juyr-jj8uyg4cgr.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\o556ripmsa-y7v9cxd14o.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\zcx6thl8ok-notf2xhcfb.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\xp5pz8kddg-h1s4sie4z3.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\9ia32q09xa-63fj8s7r0e.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\00olkzmu8h-0j3bgjxly4.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\3l11lpv9n1-3mu0h9tx89.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2ez4sppu6w-cmhhdwqdyz.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\u4tfgl4z6f-5zybp921qk.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\0miy6ldu8a-eict21by8z.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\lc0tikhacc-rvhlnuwl0w.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\3dc8j28vqx-8tr2uchqr5.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\e3a9iu2j9n-oyhlwpn2ry.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5e8o2wwyyk-37l46l7i6j.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\biufu6sfzs-9ozp8y9mwk.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\hzyab6vmsu-33kherj0x8.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\ii63ocywdb-xw9ktltpoq.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\9g7jugkeye-vv23opoj39.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\rzh4w69mcj-utrc60xe8f.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\vubn4a5uzy-m5ioe6x05t.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2h7jeb6bcc-ogfnvmm9u4.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\n2vuz34fqe-msy1qwdlar.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\y2ptnfe73e-wygj0g0egz.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\qx0z38aga8-qnll27bpxk.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\bza5ti56ua-vppv4xf58g.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\onx0vncoan-wbpfeoezp3.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mlceix5osg-ytu0mno2ng.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\otvgcya4my-wuwc8kk5a5.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7hzpi6re86-a2ww84rxre.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\ofuau6rhhn-parinopxbm.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mwx3qlv7b2-r2l44wjr8p.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\nqyflnmt2s-9b4bpgjbx0.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\x2732cl7gu-m56mxgorfm.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cs392ipb5a-iclhr71gek.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\1y6w333i4e-5q5v2m71js.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2cgjo6jowg-n9b8won2d5.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\r9fper3qce-e9652imd4e.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\psjxo6ikei-1il7se3zg6.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\k293baqkp0-4abcade5u8.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2gj5it3a8t-huwngg65ec.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\z0jxqfafbf-22n2g2hpag.gz
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoU.2F40B0B5.Up2Date
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\refint\ContosoUniversity.dll
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.pdb
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\kalas\Downloads\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ref\ContosoUniversity.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\appsettings.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\libman.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.staticwebassets.endpoints.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.staticwebassets.runtime.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.exe
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.deps.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.runtimeconfig.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ContosoUniversity.pdb
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Humanizer.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.AssemblyReference.cache
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfoInputs.cache
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.AssemblyInfo.cs
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cache
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.RazorAssemblyInfo.cs
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.sourcelink.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\scopedcss\bundle\ContosoUniversity.styles.css
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\t2lz91yfx8-bqjiyaj88i.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\t0mtqlnpxp-c2jlpeoesf.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\63wkw43i3t-erw9l3u2r3.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\sjs6gbvylj-aexeepp0ev.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\a5guscmekr-d7shbmvgxk.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\d9dexrmd7t-ausgxo2sd3.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\26xm0bpr2n-k8d9w2qqmf.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\nt8rfljglf-cosvhxvwiu.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\63ga5d44tn-ub07r2b239.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\pvkiqaeq83-fvhpjtyr6v.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\tq1gquew3a-b7pk76d08c.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\xyg4k1qkmv-fsbi9cje9m.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\w1lkd35wvf-rzd6atqjts.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\kslpi5gold-ee0r1s7dh0.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\uw290i8bjb-dxx9fxp4il.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\wfbudqph8b-jd9uben2k1.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\wcv465dbu5-khv3u5hwcm.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\o9rq26rjrs-r4e9w2rdcm.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5mddjwswek-lcd1t2u6c8.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\jh00wj6rfd-c2oey78nd0.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\72ypb6wis8-tdbxkamptv.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\50ly71tumt-j5mq2jizvt.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\d0rvqdslqt-06098lyss8.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7kit1f99k4-nvvlpmu67g.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\drtl09y606-s35ty4nyc5.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\w89dzxfsmr-pj5nd1wqec.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mobhruz5oo-46ein0sx1k.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cqm6hb54wg-v0zj4ognzu.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\sbaqtew0oo-37tfw0ft22.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\4dspnal0md-hrwsygsryq.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cnyxq1ofi5-pk9g2wxc8p.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\tkx965eflj-ft3s53vfgj.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\70vgz2ydcn-6cfz1n2cew.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\vx3ufa2jh6-6pdc2jztkx.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7h30bkhkt4-493y06b0oq.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\8yeus6of2p-iovd86k7lj.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\bgxrempnka-vr1egmr9el.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\kmq2w0z1fw-kbrnm935zg.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5ox2t7juyr-jj8uyg4cgr.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\o556ripmsa-y7v9cxd14o.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\zcx6thl8ok-notf2xhcfb.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\xp5pz8kddg-h1s4sie4z3.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\9ia32q09xa-63fj8s7r0e.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\00olkzmu8h-0j3bgjxly4.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\3l11lpv9n1-3mu0h9tx89.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2ez4sppu6w-cmhhdwqdyz.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\u4tfgl4z6f-5zybp921qk.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\0miy6ldu8a-eict21by8z.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\lc0tikhacc-rvhlnuwl0w.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\3dc8j28vqx-8tr2uchqr5.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\e3a9iu2j9n-oyhlwpn2ry.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\5e8o2wwyyk-37l46l7i6j.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\biufu6sfzs-9ozp8y9mwk.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\hzyab6vmsu-33kherj0x8.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\ii63ocywdb-xw9ktltpoq.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\9g7jugkeye-vv23opoj39.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\rzh4w69mcj-utrc60xe8f.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\vubn4a5uzy-m5ioe6x05t.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2h7jeb6bcc-ogfnvmm9u4.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\n2vuz34fqe-msy1qwdlar.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\y2ptnfe73e-wygj0g0egz.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\qx0z38aga8-qnll27bpxk.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\bza5ti56ua-vppv4xf58g.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\onx0vncoan-wbpfeoezp3.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mlceix5osg-ytu0mno2ng.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\otvgcya4my-wuwc8kk5a5.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\7hzpi6re86-a2ww84rxre.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\ofuau6rhhn-parinopxbm.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\mwx3qlv7b2-r2l44wjr8p.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\nqyflnmt2s-9b4bpgjbx0.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\x2732cl7gu-m56mxgorfm.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\cs392ipb5a-iclhr71gek.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\1y6w333i4e-5q5v2m71js.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2cgjo6jowg-n9b8won2d5.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\r9fper3qce-e9652imd4e.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\psjxo6ikei-1il7se3zg6.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\k293baqkp0-4abcade5u8.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\2gj5it3a8t-huwngg65ec.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\compressed\z0jxqfafbf-22n2g2hpag.gz
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.ContosoUniversity.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.build.ContosoUniversity.props
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ContosoUniversity.props
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ContosoUniversity.props
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoU.2F40B0B5.Up2Date
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\refint\ContosoUniversity.dll
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.pdb
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ContosoUniversity.genruntimeconfig.cache
+C:\Users\kalas\Downloads\ExamCSIS\Exam_IP\ContosoUniversity_Unit4_Start\ContosoUniversity\obj\Debug\net9.0\ref\ContosoUniversity.dll

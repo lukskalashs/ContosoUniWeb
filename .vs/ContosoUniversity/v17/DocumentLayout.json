@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\roleadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\roleadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\roleadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\roleadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\controllers\\roleadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\roleadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\models\\viewmodels\\roleviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\viewmodels\\roleviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\infrastructure\\roleuserstaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\infrastructure\\roleuserstaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\roleadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\roleadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoDB_Identity_Unit4/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\data\\seedidentitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\seedidentitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\infrastructure\\custompasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\infrastructure\\custompasswordvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\models\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\infrastructure\\customuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\infrastructure\\customuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\models\\viewmodels\\usercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\viewmodels\\usercreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoDB_Identity_Unit4/True/SqlTable/dbo.AspNetUserRoles.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\models\\viewmodels\\paginginfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\models\\viewmodels\\paginginfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\data\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\data\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\data\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\migrations\\20250615014954_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\migrations\\20250615014954_initialidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|c:\\users\\kalas\\downloads\\examcsis\\exam_ip\\contosouniversity_unit4_start\\contosouniversity\\migrations\\appdb\\20250615015030_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B294658-146E-4682-B470-90C461745D69}|ContosoUniversity\\ContosoUniversity.csproj|solutionrelative:contosouniversity\\migrations\\appdb\\20250615015030_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:32:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\RoleAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\RoleAdmin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\RoleAdmin\\Create.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\RoleAdmin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T11:12:01.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:52:57.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\RoleAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\RoleAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\RoleAdmin\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\RoleAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T10:56:30.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:46:15.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\RoleAdminController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\RoleAdminController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\RoleAdminController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\RoleAdminController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowFkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T10:32:40.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\RoleAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\RoleAdmin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\RoleAdmin\\Edit.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\RoleAdmin\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T12:18:04.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\RoleViewModels.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\ViewModels\\RoleViewModels.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\RoleViewModels.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\ViewModels\\RoleViewModels.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:58:58.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleUsersTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Infrastructure\\RoleUsersTagHelper.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Infrastructure\\RoleUsersTagHelper.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Infrastructure\\RoleUsersTagHelper.cs",
+              "RelativeToolTip": "ContosoUniversity\\Infrastructure\\RoleUsersTagHelper.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:01:27.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv1QAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:33:35.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCcAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:48:18.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SeedIdentityData.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\SeedIdentityData.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\SeedIdentityData.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\SeedIdentityData.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\SeedIdentityData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:41:48.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:55:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoDB_Identity_Unit4/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoDB_Identity_Unit4/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-15T11:22:26.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:23:44.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\ViewModels\\StudentListViewModel.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\StudentListViewModel.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\ViewModels\\StudentListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:46:23.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Infrastructure\\CustomUserValidator.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Infrastructure\\CustomUserValidator.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Infrastructure\\CustomUserValidator.cs",
+              "RelativeToolTip": "ContosoUniversity\\Infrastructure\\CustomUserValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:28:13.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomPasswordValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Infrastructure\\CustomPasswordValidator.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Infrastructure\\CustomPasswordValidator.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Infrastructure\\CustomPasswordValidator.cs",
+              "RelativeToolTip": "ContosoUniversity\\Infrastructure\\CustomPasswordValidator.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T08:08:50.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T09:34:14.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\ViewModels\\UserCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:29:21.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Program.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "ContosoUniversity\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:36:52.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "ContosoUniversity\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwJgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:00:53.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "dbo.AspNetUserRoles.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoDB_Identity_Unit4/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ContosoDB_Identity_Unit4/True/SqlTable/dbo.AspNetUserRoles.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-15T07:49:32.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContosoUniversity\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T05:53:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PagingInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\ViewModels\\PagingInfoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:46:20.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\appsettings.json",
+              "RelativeDocumentMoniker": "ContosoUniversity\\appsettings.json",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\appsettings.json",
+              "RelativeToolTip": "ContosoUniversity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T01:45:45.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:31:07.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250615014954_InitialIdentity.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Migrations\\20250615014954_InitialIdentity.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Migrations\\20250615014954_InitialIdentity.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Migrations\\20250615014954_InitialIdentity.cs",
+              "RelativeToolTip": "ContosoUniversity\\Migrations\\20250615014954_InitialIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:49:54.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "ContosoUniversity\\Models\\Student.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:01:31.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250615015030_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Migrations\\AppDb\\20250615015030_Initial.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Migrations\\AppDb\\20250615015030_Initial.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Migrations\\AppDb\\20250615015030_Initial.cs",
+              "RelativeToolTip": "ContosoUniversity\\Migrations\\AppDb\\20250615015030_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:50:30.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\CourseRepository.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\CourseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:36:23.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "ContosoUniversity\\Data\\AppIdentityDbContext.cs",
+              "ToolTip": "C:\\Users\\kalas\\Downloads\\ExamCSIS\\Exam_IP\\ContosoUniversity_Unit4_Start\\ContosoUniversity\\Data\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "ContosoUniversity\\Data\\AppIdentityDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:36:04.237Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
